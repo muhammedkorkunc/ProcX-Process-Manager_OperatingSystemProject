@@ -73,7 +73,7 @@ A lightweight, robust multi-process management system and job controller written
 ├── procx.c                       # Unified source implementation (POSIX C)
 ├── rapor.pdf                     # Academic technical design document
 ├── README.md                     # Technical documentation & usage
-└── ekran_ciktilari/              # Verification test logs & screenshots
+└── program_screenshot/              # Verification test logs &
     ├── test1.png                 # Build & interactive menu execution
     ├── test2.jpg                 # Spawning detached processes
     ├── test4.jpg                 # Signal termination via SIGTERM
