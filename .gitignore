@@ -1,9 +1,9 @@
-# Compiled Binaries
-procx
-procx/procx
+# Sadece derlenmiş binary dosyayı engelle (klasörü değil)
+/procx/procx
+procx.o
 *.o
 
-# OS & Temp Files
+# Mac ve geçici sistem dosyaları
 .DS_Store
 */.DS_Store
 /tmp/procx_msgkey
