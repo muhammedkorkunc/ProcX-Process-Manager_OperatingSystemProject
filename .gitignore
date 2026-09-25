@@ -1,0 +1,9 @@
+# Compiled Binaries
+procx
+procx/procx
+*.o
+
+# OS & Temp Files
+.DS_Store
+*/.DS_Store
+/tmp/procx_msgkey
